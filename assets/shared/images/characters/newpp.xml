@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newpp.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="newppdown0000" x="0" y="0" width="739" height="643"/>
+	<SubTexture name="newppdown0001" x="0" y="0" width="739" height="643"/>
+	<SubTexture name="newppdown0002" x="739" y="0" width="739" height="643"/>
+	<SubTexture name="newppdown0003" x="739" y="0" width="739" height="643"/>
+	<SubTexture name="newppdown0004" x="739" y="0" width="739" height="643"/>
+	<SubTexture name="newppidle0000" x="1478" y="0" width="739" height="643"/>
+	<SubTexture name="newppidle0001" x="1478" y="0" width="739" height="643"/>
+	<SubTexture name="newppidle0002" x="2217" y="0" width="739" height="643"/>
+	<SubTexture name="newppidle0003" x="2217" y="0" width="739" height="643"/>
+	<SubTexture name="newppidle0004" x="2956" y="0" width="739" height="643"/>
+	<SubTexture name="newppidle0005" x="2956" y="0" width="739" height="643"/>
+	<SubTexture name="newppidle0006" x="0" y="643" width="739" height="643"/>
+	<SubTexture name="newppidle0007" x="0" y="643" width="739" height="643"/>
+	<SubTexture name="newppidle0008" x="739" y="643" width="739" height="643"/>
+	<SubTexture name="newppidle0009" x="739" y="643" width="739" height="643"/>
+	<SubTexture name="newppleft0000" x="1478" y="643" width="739" height="643"/>
+	<SubTexture name="newppleft0001" x="1478" y="643" width="739" height="643"/>
+	<SubTexture name="newppleft0002" x="2217" y="643" width="739" height="643"/>
+	<SubTexture name="newppleft0003" x="2217" y="643" width="739" height="643"/>
+	<SubTexture name="newppleft0004" x="2217" y="643" width="739" height="643"/>
+	<SubTexture name="newppright0000" x="2956" y="643" width="739" height="643"/>
+	<SubTexture name="newppright0001" x="2956" y="643" width="739" height="643"/>
+	<SubTexture name="newppright0002" x="0" y="1286" width="739" height="643"/>
+	<SubTexture name="newppright0003" x="0" y="1286" width="739" height="643"/>
+	<SubTexture name="newppright0004" x="0" y="1286" width="739" height="643"/>
+	<SubTexture name="newppup0000" x="739" y="1286" width="739" height="643"/>
+	<SubTexture name="newppup0001" x="739" y="1286" width="739" height="643"/>
+	<SubTexture name="newppup0002" x="1478" y="1286" width="739" height="643"/>
+	<SubTexture name="newppup0003" x="1478" y="1286" width="739" height="643"/>
+	<SubTexture name="newppup0004" x="1478" y="1286" width="739" height="643"/>
+</TextureAtlas>
