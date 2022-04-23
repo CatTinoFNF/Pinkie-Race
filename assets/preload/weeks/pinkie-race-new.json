@@ -1,0 +1,32 @@
+{
+	"storyName": "Pinkie Race",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "sugarcubecc",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		237,
+		69,
+		141
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Pinkie Race",
+			"pp",
+			[
+				237,
+				69,
+				141
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Pinkie Race New"
+}
